@@ -6,7 +6,7 @@
 }
 body{
     font-family: sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     background-color: #F5F5F5;
 }
 .encabezado{
@@ -19,7 +19,7 @@ body{
     font-size: 30px;
 }
 h3{
-    font-size: 40px;
+    font-size: 30px;
 }
 .contenedorCarrito table{
     font-size: 27px;
@@ -39,4 +39,10 @@ h3{
 }
 .cajaproducto img{
     width: 100%;
+}
+
+.cajaproducto .estrellasDiv{
+    display: flex;
+    max-width: 16%;
+
 }
